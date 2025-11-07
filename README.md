@@ -1,9 +1,8 @@
-<div align="center">
-
-<img src="https://i.imgur.com/I5T0Zin.jpeg" alt="thanhdieu-banner" style="border-radius: 15px;">
-<div align="center">
-  <h1><pre>Hi, I'm Hoang Kim</pre></h1>
-</div>
+profile = {
+    "name": "Luckkystop",
+    "username": "@datvuluckkystop",
+    "birthday": "11/1/2010",
+}
 
 Though I am ordinary among many.
 
