@@ -12,9 +12,9 @@
   <!-- Profile section -->
   <div style="border: 1px solid #444; border-radius: 10px; padding: 10px; width: 250px; background: #111; color: #fff;">
     <h3>👤 Profile</h3>
-    <p><b>Name:</b> Luckkystop</p>
-    <p><b>Username:</b> @datvuluckkystop</p>
-    <p><b>Birthday:</b> 11/1/2010</p>
+    <p><b>Name:</b> Hoàng Kimp</p>
+    <p><b>Telegram:</b> @ltsnode</p>
+    <p><b>Birthday:</b> 08/11/2007</p>
   </div>
 
   <br>
