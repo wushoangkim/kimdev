@@ -38,7 +38,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WusThanhDieu&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="wusthanhdieu">
   </p>
 
-  You can checkout my website<br>
-  <a href="https://kimxxx.org/" target="_blank">https://kimxxx.org/</a>
-
 </div>
